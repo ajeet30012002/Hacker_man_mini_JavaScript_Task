@@ -1,0 +1,54 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+body{
+    background-image: url("Kali3.jpg");
+    background-repeat: no-repeat;
+    background-size:cover;
+    color: rgb(12, 237, 12);
+    font-family: 'Fira Code', monospace;
+}
+#main{
+    margin-top: 10%;
+}
+#first{
+    height: 400px;
+    width: 25%;
+    float: left;
+    margin-right: 5%;
+    border: solid white 3px;
+    border-radius: 10px;
+    word-wrap: break-word;
+    overflow: hidden;
+}
+#data{
+    margin: auto;
+    height: 400px;
+    display: inline-block;
+    width: 35%;
+    border: solid white 3px;
+    border-radius: 10px;
+ 
+}
+#data1{
+    padding: 20px;
+}
+#third{
+    height: 400px;
+    width: 25%;
+    float: right;
+    margin-left: 5%;
+    border: solid white 3px;
+    border-radius: 10px;
+    word-wrap: break-word;
+    overflow: hidden;
+}
+h1{
+    font-size: 35px;
+    text-align: center;
+}
+input{
+    opacity: 40%;
+    color: rgb(37, 244, 22);
+}
